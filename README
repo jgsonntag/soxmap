@@ -1,0 +1,13 @@
+
+
+$Id: README,v 1.2 2004/05/21 22:21:17 wright Exp $
+
+# Start with this..
+
+qmake -o Makefile soxmap2.pro
+
+
+# Then..
+
+make
+
